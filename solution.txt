@@ -1,0 +1,6 @@
+git clone https://github.com/VenerableBanana/epg1_git.git
+git branch hw-s17000
+git rebase origin/rebase-me hw-s17000
+git merge origin/merge-me
+cat README.md
+git add README.md
